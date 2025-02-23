@@ -1,0 +1,26 @@
+{
+  "name": "connectmongo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Varunpratap74358/NPM_PACKEGE.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "\"Varun\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Varunpratap74358/NPM_PACKEGE/issues"
+  },
+  "homepage": "https://github.com/Varunpratap74358/NPM_PACKEGE#readme",
+  "description": "",
+  "dependencies": {
+    "mongoose": "^8.10.1"
+  }
+}
